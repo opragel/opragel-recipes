@@ -33,7 +33,7 @@
 		<key>MinimumVersion</key>
 		<string>1.4.1</string>
 		<key>ParentRecipe</key>
-		<string>com.github.autopkg.download.duoconnect</string>
+		<string>com.github.opragel.download.duoconnect</string>
 		<key>Process</key>
 		<array>
 			<dict>
